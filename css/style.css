@@ -35,3 +35,30 @@ header.main-header .header-bottom h1{
   letter-spacing: normal;
   color: #013243;
 }
+.card .card-text{
+  font-size: 30px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+.card .card-title{
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4c6072;
+}
+.card .card-content{
+  padding: 5px 10px;
+}
+.progress{
+  height: .5rem!important;
+}
+.card .footer-title{
+  margin-bottom: 10px;
+}
