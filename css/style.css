@@ -1,0 +1,37 @@
+:root{
+  --is-white: #fff;
+}
+body{
+  background-color: #eff9f4;
+  color: #4a4a4a;
+  font-family: 'Nunito Sans', sans-serif;
+}
+header.main-header{
+  width: 100%;
+  background: var(--is-white);
+  margin: 0 0 10px 0;
+}
+header.main-header .header-top{
+  padding: 20px 0;
+}
+header.main-header .header-top p{
+  font-size: 15px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.07;
+  letter-spacing: 1.5px;
+  color: #6c7a89;
+}
+header.main-header .header-bottom{
+  padding: 40px 0;
+}
+header.main-header .header-bottom h1{
+  font-size: 36px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #013243;
+}
